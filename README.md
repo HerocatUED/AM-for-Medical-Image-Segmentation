@@ -11,6 +11,6 @@ Course project of Machine Learning (PKU 2023 Autumn)
 
 # Model Zoo
 Here we provide pretrained classifier and fintuned SAM model with best mDice score(prompt type is 'bbox')
-1. [Finetuned SAM]()
-2. [Classifier]()
+1. [Finetuned SAM](https://disk.pku.edu.cn/#/link/81601013A1064CC1E7B85B97FA6B99E6)
+2. [Classifier](https://disk.pku.edu.cn/#/link/635CBE9BAAE9CFB05B1041D4D6C6B216)
 
