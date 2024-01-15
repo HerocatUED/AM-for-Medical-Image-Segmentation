@@ -10,3 +10,8 @@ Course project of Machine Learning (PKU 2023 Autumn)
 6. Run `main.py` in folder `code/task*`
 7. We provide visulization tool in `code/task3/visulize3D.py`
 
+# Model Zoo
+Here we provide pretrained classifier and fintuned SAM model with best mDice score(prompt type is 'bbox')
+1. [Finetuned SAM]()
+2. [Classifier]()
+
